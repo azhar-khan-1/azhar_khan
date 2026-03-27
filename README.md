@@ -1,6 +1,6 @@
 # HI  👏
 # 💫 About Me:
-🎓 M.Tech BME @ IIT Indore  <br>🔭 Working on AI, Computer Vision & Sports Analytics  <br>🤝 Open to collaborations in Sports Tech  <br>🌱 Learning ML, CV & Performance Metrics  <br>💬 Ask me about Sports + AI + CV  <br>⚡ Turning game footage into data-driven insights 🎯📊
+🎓 M.Tech BME @ IIT Indore  <br>🔭 Working on AI, Computer Vision & Sports Analytics  <br>🤝 Open to collaborations in Sports Tech  <br>🌱 Learning ML, CV & Performance Metrics  <br>💬 Ask me about Sports + AI + CV  <br>⚡ Turning game footage into data-driven insights 🎯📊 <br>🏸 Inter-IIT Badminton Player | 🏆 Inter-State Champion | 🏊 State Swimmer
 
 
 ## 🌐 Socials:
